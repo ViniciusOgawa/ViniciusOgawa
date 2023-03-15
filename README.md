@@ -16,4 +16,4 @@
 
 </div><br/>
 
-Apaixonado por tecnologia e buscando mudar a vida das pessoas aytavés da programação.
+Apaixonado por tecnologia e buscando mudar a vida das pessoas através da programação.
